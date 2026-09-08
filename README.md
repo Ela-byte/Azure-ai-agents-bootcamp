@@ -7,12 +7,12 @@ Repositorio de seguimiento, prácticas y desarrollo de agentes inteligentes cons
 ## 📌 Progreso del Bootcamp
 
 * **Asistencia:** 100%
-* **Racha:** 2 clases consecutivas
+* **Racha:** 3 clases consecutivas
 
 | Módulo / Clase | Estado | Apuntes / Código |
 | :--- | :---: | :---: |
-| **Implementación de IA Responsable en Sistemas GenAI y Agentes** | 🟢 Completado |
-| **Creación de Agentes usando Azure AI Foundry** | 🟡 En Proceso |
+| **Selección de servicios y modelos de Azure AI Foundry ** | 🟢 Completado | N/A |
+| **Configuración e implementación de soluciones en Azure AI Foundry** | 🟡 En Proceso | Laboratorio  Configuración e implementación.py in Git hub|
 
 ---
 
