@@ -11,8 +11,8 @@ Repositorio de seguimiento, prácticas y desarrollo de agentes inteligentes cons
 
 | Módulo / Clase | Estado | Apuntes / Código |
 | :--- | :---: | :---: |
-| **Implementación de IA Responsable en Sistemas GenAI y Agentes** | 🟢 Completado | [`docs/01-responsible-ai.md`](./docs/) |
-| **Creación de Agentes usando Azure AI Foundry** | 🟡 En Proceso | [`labs/02-azure-foundry/`](./labs/) |
+| **Implementación de IA Responsable en Sistemas GenAI y Agentes** | 🟢 Completado |
+| **Creación de Agentes usando Azure AI Foundry** | 🟡 En Proceso |
 
 ---
 
