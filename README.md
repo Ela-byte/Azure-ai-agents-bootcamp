@@ -11,9 +11,9 @@ Repositorio de seguimiento, prácticas y desarrollo de agentes inteligentes cons
 
 | Módulo / Clase | Estado | Apuntes / Código |
 | :--- | :---: | :---: |
-| **Selección de servicios y modelos de Azure AI Foundry ** | 🟢 Completado | N/A |
-| **Configuración e implementación de soluciones en Azure AI Foundry** | 🟡 En Proceso | Laboratorio  Configuración e implementación.py in Git hub|
-
+| **Selección de servicios y modelos de Azure AI Foundry** | 🟢 Completado | N/A |
+| **Configuración e implementación de soluciones en Azure AI Foundry** | 🟢 Completado | Laboratorio  Configuración e implementación.py in Git hub|
+| **Implementación de inteligencia artificial responsable en sistemas de inteligencia artificial generativa y agente** | 🟡 En Proceso | N/A |
 ---
 
 ## 🛠️ Tecnologías & Herramientas
